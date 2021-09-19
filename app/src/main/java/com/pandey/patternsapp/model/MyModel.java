@@ -1,4 +1,4 @@
-package com.pandey.patternsapp;
+package com.pandey.patternsapp.model;
 
 public class MyModel {
 
